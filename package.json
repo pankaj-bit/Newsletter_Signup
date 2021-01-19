@@ -1,0 +1,17 @@
+{
+  "name": "newsletter_signup",
+  "version": "1.0.0",
+  "description": "\"News_Letter_Project\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Pankaj Shnedurkar\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "heroku": "^7.47.7",
+    "request": "^2.88.2"
+  }
+}
