@@ -53,7 +53,7 @@ const options={
     })
     
     
-    request.write(jsonData);
+    request.write(jsonData)
     request.end();
 });
 
