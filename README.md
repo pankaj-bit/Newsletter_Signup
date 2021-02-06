@@ -5,7 +5,7 @@
 - Newsletter signup using <b>Node.js/Express and the Mailchimp API. </b>
 - Fill in your [audience ID] and your [API Key] in app.js
 
-Have a look at My NewsLetter http://protected-fjord-88135.herokuapp.com/
+YOu can have a look at My NewsLetter http://protected-fjord-88135.herokuapp.com/
 
 
 
